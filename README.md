@@ -1,3 +1,14 @@
+# Learning Project
+
+This project was created as a learning exercise, following a tutorial from the YouTube channel Code With Antonio. All credit for the original project idea and implementation goes to them.
+
+You can find the original tutorial video [here](https://www.youtube.com/watch?v=5miHyP6lExg).
+
+Please note that this project is for educational purposes only.
+
+
+#Project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
